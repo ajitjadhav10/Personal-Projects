@@ -5,8 +5,8 @@
   - This folder contains all my projects.  
 
 Python Projects:
-- Analysis of Linkedin data
-- 
+- Analyzing Linkedin User Migration
+- Effect of Welfare of Women on GDP
 
 Tableau Projects:
 - COVID-19 Dashboard
