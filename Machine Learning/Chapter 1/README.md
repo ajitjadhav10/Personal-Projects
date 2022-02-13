@@ -28,3 +28,7 @@ Some important unsupervised learning algorithms are:
   - Dimensionality reduction groups data which is similar to each other in order to simplify the data.
 - Anomaly detection
 - Association rule learning: Here goal is to dig into the data find interesting relations between different attributes of the data. Eg. if you own a supermarket association rule can help you understand from your sales as to which products are often bought together, so based on that those items can be placed closer together.
+
+**3. Semisupervised Learning**: In this case, the training data contains a lot of unlabelled data and some labelled data. Such a case is called semisupervised learning.
+Eg: Google photos, where you enter the name of a person(label one photo) in photo and then google photos recognizes all other photos of that person.
+
