@@ -32,3 +32,4 @@ Some important unsupervised learning algorithms are:
 **3. Semisupervised Learning**: In this case, the training data contains a lot of unlabelled data and some labelled data. Such a case is called semisupervised learning.
 Eg: Google photos, where you enter the name of a person(label one photo) in photo and then google photos recognizes all other photos of that person.
 
+**4. Reinforcement Learning**: Here the system which needs to learn, is called an agent. The agent can observe the environment and perform actions, based on those actions the agent gets rewards or penalties(if the action performed is not the desired one) The agent has to figure out what is the best strategy(called policy).
