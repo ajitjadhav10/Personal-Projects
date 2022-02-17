@@ -10,3 +10,7 @@ Python Projects:
 
 Tableau Projects:
 - COVID-19 Dashboard
+
+
+Machine Learning:
+- Documenting my learning
