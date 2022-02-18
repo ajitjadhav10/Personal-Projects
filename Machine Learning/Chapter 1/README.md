@@ -32,4 +32,19 @@ Some important unsupervised learning algorithms are:
 **3. Semisupervised Learning**: In this case, the training data contains a lot of unlabelled data and some labelled data. Such a case is called semisupervised learning.
 Eg: Google photos, where you enter the name of a person(label one photo) in photo and then google photos recognizes all other photos of that person.
 
-**4. Reinforcement Learning**: Here the system which needs to learn, is called an agent. The agent can observe the environment and perform actions, based on those actions the agent gets rewards or penalties(if the action performed is not the desired one) The agent has to figure out what is the best strategy(called policy).
+**4. Reinforcement Learning**: Here the system which needs to learn, is called an agent. The agent can observe the environment and perform actions, based on those actions the agent gets rewards or penalties(if the action performed is not the desired one). The agent has to figure out what is the best strategy(called policy).
+Eg. AlphaGo, it is a program that learned how to play the game Go by observing millions of games and then by playing many games against itself.
+
+
+
+**5. Batch and Online Learning:**
+In **Batch learning**, the system is trained on the avaiable data and then it is used. Since training takes a lot of time and requires large amount of data, it is generally done offline. In this case the system doesn't continue learning when it is being used. Hence, if we need to train the system with an updated data, we'll need to train the system from scratch, then discontinue the old system and replace it with the new system. Hence, this should be avoided where systems need to learn from new data continuously.
+
+In **Online learning** the system is continuously trained on small batches of data(it is also called incremental learning). This is preferred for systems where there is continuous flow of data.(eg. stock prices) and there is need of adapting to changes rapidly. An important factor here is **learning rate**, if it is set to 'high', then the system will rapidly learn from new data and forget the old data and if it set to 'low' it will learn more slowly and it'll be less sensitive to noise. A challenge that arises here is if bad data is fed to the system, then the performance of the system will gradually decline. To be safe from this, we need to continuously monitor the system and switch off learning when we notice a drop in performance.
+
+
+**6. Instance based vs Model based**
+I'll explain **Instance based** system with an example, a spam filter can be programmed to flag emails that contain words which have been previously found in other spam emails. This requires, a measure of similarity between two emails. This is called as instance based learning: the system learns the examples by heart, then generalizes to new cases using a similarity measure.
+
+Another way to do this is, through **model based learning** where you create a model using your set of examples and then use that model to make predictions.
+Eg. Say, if we want to see whether money makes people happy or not, we can do this using better life index from oecd's website as well as GDP per capita from IMF's website. By analyzing we realize that there is a 'linearly increasing' trend, hence we can model life satisfaction as a linear function of GDP per capita. This what we have done here is called model selection. Now, we'll use this model to make predictions.
