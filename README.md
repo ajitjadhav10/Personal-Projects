@@ -14,3 +14,4 @@ Tableau Projects:
 
 Machine Learning:
 - Documenting my learning
+- Iris dataset EDA and Classification model
