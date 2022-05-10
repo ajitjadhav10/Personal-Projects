@@ -13,5 +13,10 @@ Tableau Projects:
 
 
 Machine Learning:
+- Sentiment Analysis of Russia-Ukraine War and text classification
 - Documenting my learning
 - Iris dataset EDA and Classification model
+
+
+Big Data Projects:
+- Analyzing Chicago Rental Prices Based on Crime Rate
