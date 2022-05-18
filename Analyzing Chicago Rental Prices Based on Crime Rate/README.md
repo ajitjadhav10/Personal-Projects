@@ -1,1 +1,1 @@
-- You can have a look at the project here: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2951460130805192/387653412817709/7556934681302407/latest.html
+- You can have a look at the project here: https://tinyurl.com/ajitpysparkproject
