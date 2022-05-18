@@ -19,4 +19,4 @@ Machine Learning:
 
 
 Big Data Projects:
-- Analyzing Chicago Rental Prices Based on Crime Rate
+- Analyzing Chicago Rental Prices Based on Crime Rate(Have a look at the project here: https://tinyurl.com/ajitpysparkproject)
