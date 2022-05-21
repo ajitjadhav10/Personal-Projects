@@ -13,7 +13,7 @@ Tableau Projects:
 
 
 Machine Learning:
-- Sentiment Analysis of Russia-Ukraine War and text classification [Youtube video presentation link](https://www.youtube.com/watch?v=xXOmEEJo0fs&t=1s)
+- Sentiment Analysis of Russia-Ukraine War and text classification: [Youtube video presentation link](https://www.youtube.com/watch?v=xXOmEEJo0fs&t=1s)
 - Documenting my learning
 - Iris dataset EDA and Classification model
 
