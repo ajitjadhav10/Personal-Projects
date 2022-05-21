@@ -9,7 +9,7 @@ Python Projects:
 - Effect of Welfare of Women on GDP
 
 Tableau Projects:
-- COVID-19 Dashboard
+- COVID-19 Dashboard: [Dashboard link](https://public.tableau.com/app/profile/ajit.jadhav/viz/Covid19Dashboard_16441031177380/COVID19Dashboard#1)
 
 
 Machine Learning:
