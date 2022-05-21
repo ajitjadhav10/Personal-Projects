@@ -13,10 +13,10 @@ Tableau Projects:
 
 
 Machine Learning:
-- Sentiment Analysis of Russia-Ukraine War and text classification
+- Sentiment Analysis of Russia-Ukraine War and text classification [Youtube video presentation link](https://www.youtube.com/watch?v=xXOmEEJo0fs&t=1s)
 - Documenting my learning
 - Iris dataset EDA and Classification model
 
 
 Big Data Projects:
-- Analyzing Chicago Rental Prices Based on Crime Rate (Have a look at the project here: https://tinyurl.com/ajitpysparkproject)
+- Analyzing Chicago Rental Prices Based on Crime Rate(Spark): [Project notebook link](https://tinyurl.com/ajitpysparkproject)
