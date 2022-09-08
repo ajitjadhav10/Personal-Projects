@@ -10,6 +10,7 @@ Python Projects:
 
 Tableau Projects:
 - COVID-19 Dashboard: [Dashboard link](https://public.tableau.com/app/profile/ajit.jadhav/viz/Covid19Dashboard_16441031177380/COVID19Dashboard#1)
+- Financial Complaints Dashboard: [Dashboard link](https://public.tableau.com/views/FinancialcomplaintsDashboard_16626083059820/FCOverview?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 Machine Learning:
