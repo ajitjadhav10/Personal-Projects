@@ -20,7 +20,7 @@ Machine Learning:
 
 
 NLP:
-- News Summarization Application using fine-tuned T5 transformer (Application is built on Streamlit)
+- News Summarization Application using a fine-tuned T5 transformer (Application is built on Streamlit)
 
 
 Big Data Projects:
