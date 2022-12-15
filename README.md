@@ -19,5 +19,9 @@ Machine Learning:
 - Iris dataset EDA and Classification model
 
 
+NLP:
+- News Summarization Application using fine-tuned T5 transformer (Application is built on Streamlit)
+
+
 Big Data Projects:
 - Analyzing Chicago Rental Prices Based on Crime Rate(Spark): [Project notebook link](https://tinyurl.com/ajitpysparkproject)
