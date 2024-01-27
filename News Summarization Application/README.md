@@ -1,4 +1,8 @@
+View Project Presentation:  ![Project ppt link](https://docs.google.com/presentation/d/1zjYIYbcskeXCdGEzs24SSesAEPgx_yPd9Re2UkVk6Y0/edit?usp=sharing)
+
 Project Summary:
+
+
 
 - The News Summarization Application is built on Streamlit using a fine tuned T5 transformer
 - The pre-trained T5 transformer has been fine-tuned on CNN/Daily Mail news dataset (https://huggingface.co/datasets/cnn_dailymail).
@@ -12,4 +16,6 @@ Features of Streamlit Application:
 - Our application allows users to read summaries of the latest news articles. 
 - It also allows users to filter news summaries of a category of their choice. 
 - It allows users to determine the number of articles to summarize with the help of a slider.
-- Our application also has a feature that makes it possible for users to paste news article text as input and generate summaries at the click of a button. 
+- Our application also has a feature that makes it possible for users to paste news article text as input and generate summaries at the click of a button.
+
+
