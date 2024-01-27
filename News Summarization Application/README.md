@@ -1,4 +1,4 @@
-View Project Presentation:  ![Project ppt link](https://docs.google.com/presentation/d/1zjYIYbcskeXCdGEzs24SSesAEPgx_yPd9Re2UkVk6Y0/edit?usp=sharing)
+View Project Presentation: https://docs.google.com/presentation/d/1zjYIYbcskeXCdGEzs24SSesAEPgx_yPd9Re2UkVk6Y0/edit?usp=sharing
 
 Project Summary:
 
